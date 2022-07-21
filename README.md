@@ -1,1 +1,2 @@
 # TeamWatanabe-Poker
+## このプロジェクトはポーカーのゲームです。
